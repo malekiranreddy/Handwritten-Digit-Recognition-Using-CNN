@@ -1,0 +1,10 @@
+﻿image,actual_digit,predicted_digit,confidence,correct
+1\digit_1.jpg,1,1,0.987688,True
+2\digit_2.jpg,2,2,0.999257,True
+3\digit_3.jpg,3,3,0.994582,True
+4\digit_4.jpg,4,4,0.853546,True
+5\digit_5.jpg,5,5,0.999917,True
+6\digit_6.jpg,6,6,0.997796,True
+7\digit_7.jpg,7,7,0.993238,True
+8\digit_8.jpg,8,8,0.999504,True
+9\digit_9.jpg,9,9,0.999975,True
