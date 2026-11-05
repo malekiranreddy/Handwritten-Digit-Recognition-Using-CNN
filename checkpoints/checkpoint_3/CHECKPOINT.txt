@@ -1,3 +1,0 @@
-Checkpoint 3 preserves the project code and trained model from before the GUI preview was changed to show the cleaned 28x28 model input beside the original photo.
-
-To restore the old GUI and prediction code, copy this folder's app.py and predict_image.py into the project root, replacing the active files. The model in this checkpoint is at models/digit_cnn.keras.

@@ -12,11 +12,10 @@ evaluate_images.py           Evaluate labeled images and save a CSV
 digit_recognition/
   model.py                    CNN architecture and shared model settings
   preprocessing.py            Convert an image into the model's 28x28 input
-models/                       Trained model and model checkpoints
+models/                       Trained model used by the app and predictors
 results/                      MNIST and custom-image evaluation results
 demo/                          Example MNIST image
 custom_test_images/             Labeled images used for custom evaluation
-checkpoints/checkpoint_3/       Code snapshot from before the clearer GUI preview
 requirements.txt                Python dependencies
 ```
 
